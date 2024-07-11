@@ -1,2 +1,2 @@
-# bootstrao
+# bootstrap
 Treinando bootstrap
